@@ -1,0 +1,2 @@
+//A typical React component is an ES6 class which extends React.Component. 
+//It has a render method that returns HTML (from JSX) or null. This is the basic form of a React component. 
