@@ -24,3 +24,6 @@ class ParentComponent extends React.Component {
     );
   }
 };
+
+// "mountNode" could be a div or the beginning of our html body 
+ReactDOM.render(<ParentComponent />, document.getElementById('mountNode')); 
